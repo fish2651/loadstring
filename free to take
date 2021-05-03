@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/fish2651/free-to-take-edit/main/free",true))();
+--script made by fish#2651
